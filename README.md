@@ -1,10 +1,10 @@
 # Spam Movie Review Detection
 
-This is the official repository of paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion", which is accepted by the journal *IEEE Transactions on Information Forensics and Security (TIFS, 2024)* and to be published soon.
+This is the official repository of paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion", which is published in the journal *IEEE Transactions on Information Forensics and Security (TIFS, 2024)*.
 
 ## Code
 
-See folder `Code/`. *Note that the original version of code is runned on our self-developed deep-learning experimental platform.* Contact Yicheng at cyc21csri@stu.scu.edu.cn for any questions.
+See folder `Code/`. *Note that the original version of code is runned on our self-developed deep-learning experimental platform.* Contact Yicheng at cyc.ralion@gmail.com for any questions.
 
 ## Dataset
 
@@ -17,7 +17,7 @@ The dataset used in this paper includes two parts:
 
 The dataset is available at [Google Drive](https://drive.google.com/drive/folders/1dbw3pl4qy9W6kzXA2upeTba5ObLUwzmb?usp=drive_link).
 
-Please apply for access by contacting Yicheng at cyc21csri@stu.scu.edu.cn with your institutional email address and clearly state your institution, your research advisor (if any), and your use case of our dataset.
+Please apply for access by contacting Yicheng at cyc.ralion@gmail.com with your institutional email address and clearly state your institution, your research advisor (if any), and your use case of our dataset.
 
 ### Data Format and Sample
 
@@ -98,3 +98,20 @@ Please apply for access by contacting Yicheng at cyc21csri@stu.scu.edu.cn with y
 | Useful  Number  | Number of users who consider the review to be useful  | 8                                                                                                                                                                                |
 | Useless  Number | Number of users who consider the review to be useless | 2                                                                                                                                                                                 |
 | Comment  Number | Number of users who commented under the review        | 3 |
+
+
+## Cite (BibTex)
+
+Please cite the following paper, if you find our work useful in your research:
+
+```
+@ARTICLE{cai2024detecting,
+  author={Cai, Yicheng and Wang, Haizhou and Cao, Hao and Wang, Wenxian and Zhang, Lei and Chen, Xingshu},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Detecting Spam Movie Review Under Coordinated Attack With Multi-View Explicit and Implicit Relations Semantics Fusion}, 
+  year={2024},
+  volume={19},
+  number={},
+  pages={7588-7603},
+  doi={10.1109/TIFS.2024.3441947}}
+```
